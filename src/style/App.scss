@@ -1,0 +1,42 @@
+a:link{
+    text-decoration: none
+}
+a:visited{
+    text-decoration: none;
+}
+.primary-color{  
+
+    color: #42b983 !important;
+}
+#app {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #2c3e50;
+    
+}
+#header-mini{
+    text-align: center;
+    width: 100%;
+    height: 43px;
+    background-color: #343a40;
+    color: aliceblue;
+    line-height: 2.7;
+}
+#link-info{
+    float: left;
+    margin-left: 14%;
+    
+}
+#link-sns{
+    float: right;
+    margin-right: 14%;
+}
+.txt{
+    margin-left: 20px;
+}
+.ico-padding{
+    padding: 0.5rem !important;
+}
+
